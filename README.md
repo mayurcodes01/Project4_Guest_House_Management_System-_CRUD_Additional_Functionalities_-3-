@@ -1,0 +1,2 @@
+# Project4_Guest_House_Management_System-_CRUD_Additional_Functionalities_-3-
+This project was assigned  to me during Kiran academy's  Python Internship Course it is  a simple Guest House Management System built in Python using the Command Line Interface (CLI). It performs CRUD operations (Create, Read, Update, Delete) along + functionalities like bill generation and search, designed for managing small guesthouse
